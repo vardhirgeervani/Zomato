@@ -15,6 +15,6 @@ Outdated Information - Restaurant details may not reflect current status
 Biased Ratings - Ratings can be subjective and not fully reliable.
 Limited Features - May not include deeper insights like customer demographics or order history
 
-# Dashboard
+
 
 
